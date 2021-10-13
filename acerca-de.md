@@ -7,16 +7,12 @@ El Encuentro Estudiantil es el evento anual más grande en la Universidad de Gua
 
 Este año, el 5to. Encuentro Estudiantil tiene el objetivo de acercar a los estudiantes a algunas de las tecnologías que forman parte de la Industria 4.0 para conocer sus aplicaciones reales y la relación que éstas tienen con diversas áreas del conocimiento como:  diseño-artes, arquitectura, económico-administrativas, sociales-humanidades, derecho-política-gobierno, ciencias naturales y exactas, etc., para incentivar su uso, aprendizaje e incorporación de las mismas en sus planes de vida profesional.
 
+Sera un evento virtual a través de la plataforma [Gathe](www.gather.town) un espacio digital con actividades, stands, escenarios y más donde podrás interactur con otros alumnos, grupos estudiantiles y valdidar tus horas/ unidades de participación.
+
 
 #### ¿Qué habrá en el 5to. Encuentro Estudiantil?
 
-El 5to. Encuentro Estudiantil de la Universidad de Guanajuato es un espacio para la comunidad estudiantil, donde todas las personas participantes podrán formar parte de diferentes actividades. Principalmente, te invitamos a participar en:
-
-- Charlas y talleres
-- Retos
-- Dinámicas
-
-...que tenemos preparadas para ti.
+El 5to. Encuentro Estudiantil de la Universidad de Guanajuato es un espacio para la comunidad estudiantil, donde todas las personas participantes podrán formar parte de diferentes actividades.
 
 #### Charlas
 
@@ -29,7 +25,8 @@ Puedes leer el [programa completo aquí]({{ site.baseurl }}/programa).
 Los retos que se presentarán en el evento son:
 
 - Reto de visualización de datos
-- Reto de TikTok
+- COncurso de TikTok
 - Reto de robótica
+- Torneo de videjuego
 
 Puedes consultar [todos los retos aquí]({{ site.baseurl }}/retos).
