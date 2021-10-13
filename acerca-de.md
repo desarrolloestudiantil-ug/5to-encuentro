@@ -7,7 +7,7 @@ El Encuentro Estudiantil es el evento anual más grande en la Universidad de Gua
 
 Este año, el 5to. Encuentro Estudiantil tiene el objetivo de acercar a los estudiantes a algunas de las tecnologías que forman parte de la Industria 4.0 para conocer sus aplicaciones reales y la relación que éstas tienen con diversas áreas del conocimiento como:  diseño-artes, arquitectura, económico-administrativas, sociales-humanidades, derecho-política-gobierno, ciencias naturales y exactas, etc., para incentivar su uso, aprendizaje e incorporación de las mismas en sus planes de vida profesional.
 
-Sera un evento virtual a través de la plataforma [Gathe](www.gather.town) un espacio digital con actividades, stands, escenarios y más donde podrás interactur con otros alumnos, grupos estudiantiles y valdidar tus horas/ unidades de participación.
+Sera un evento virtual a través de la plataforma <a href="https://www.gather.town" target="_blank">Gather</a> un espacio digital con actividades, stands, escenarios y más donde podrás interactur con otros alumnos, grupos estudiantiles y valdidar tus horas/ unidades de participación.
 
 
 #### ¿Qué habrá en el 5to. Encuentro Estudiantil?
