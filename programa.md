@@ -5,7 +5,7 @@ title: Programa
 
 El programa contempla una serie de dinámicas, talleres y un pánel que abordará diferentes temas sobre <strong>ciencia de datos, inteligencia artificial, diseño, frabicación digital, robótica</strong> y otros en el ámbito de la tecnología y cómo juegan un rol importante para darle visibilidad distintas problemáticas de la ciudad.
 
-<iframe src="assets/programa.pdf" type="application/pdf" width="100%" height="600px" /></iframe>
+<iframe src="assets/programa.pdf" type="application/pdf" width="100%" height="600px"></iframe>
 
 
 _* El programa puede cambiar sin previo aviso._
