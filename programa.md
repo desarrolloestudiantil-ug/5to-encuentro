@@ -4,8 +4,12 @@ title: Programa
 ---
 
 El programa contempla una serie de dinámicas, talleres y un pánel que abordará diferentes temas sobre <strong>ciencia de datos, inteligencia artificial, diseño, frabicación digital, robótica</strong> y otros en el ámbito de la tecnología y cómo juegan un rol importante para darle visibilidad distintas problemáticas de la ciudad.
+<!-- 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr0AqT5YcndCF6PZ?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr0AqT5YcndCF6PZ?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<embed src="assest/programa.pdf" type="application/pdf" width="100%" height="600px" />
+
+
 _* El programa puede cambiar sin previo aviso._
 
 > Puedes validar tus unidades de participación en las  diferentes actividades usando [este formulario]({{ site.baseurl }}/unidades).
